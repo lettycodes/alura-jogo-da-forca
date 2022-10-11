@@ -4,4 +4,4 @@ Jogo da forca feito para o Challenge da Alura, durante a participação do ONE, 
 
 ## Live preview
 
-Para testar, acesse: 
+Para testar, acesse: https://lettycodes.github.io/alura-jogo-da-forca
